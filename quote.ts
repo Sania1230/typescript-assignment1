@@ -1,0 +1,1 @@
+console.log('Hazrat Ali once said,"Silence is the garden of thought".')
